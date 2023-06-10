@@ -1,0 +1,4 @@
+name: newlevel
+version: '${project.version}'
+main: mask.lab.level.Newlevel
+api-version: 1.18
